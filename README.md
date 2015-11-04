@@ -4,7 +4,8 @@
 ** 其他项目总结 **
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0) github iOS排行榜
 - [open-source-library-tags](https://github.com/superleexpert/open-source-library-tags) 佳宾同学自己项目总结
-- [SwiftGuide](https://github.com/ipader/SwiftGuide/blob/master/Featured.md) Swift 开源项目精选 
+- [SwiftGuide](https://github.com/ipader/SwiftGuide/blob/master/Featured.md) Swift 开源项目精选
+
 
 ** 目录 **
 
@@ -25,7 +26,8 @@
       pod search KRVideoPlayer
       ```
       使用MPMoviePlayer进行视频播放，自定义控制层 来控制视频的暂定，播放，前进后退等等
-      ![示例图片](https://github.com/36Kr-Mobile/KRVideoPlayer/blob/master/kr_player.gif "示例图片")
+
+      ![示例图片](https://github.com/36Kr-Mobile/KRVideoPlayer/blob/master/kr_player.gif  "示例图片")
   * 下一个效果
 
 - 模糊效果
@@ -44,5 +46,9 @@
     * Unit Test
     * ReactiveCocoa
     * Model-View-ViewModel
+  * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)
+    一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能
+
+    ![示例图片](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/MessageDisplayKit.gif "图片")
 
 ## 博客
