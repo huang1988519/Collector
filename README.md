@@ -9,6 +9,7 @@
    * 自定义程度高（文字，动图，heade、footer 等等）
    * 易使用
    * 中文文档，目前已经 4000 多 star
+   
  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) 应该算本人使用比较早的一个下拉，上拉刷新，api 较少，使用方便
 - 模糊效果
 - AutoLayout
