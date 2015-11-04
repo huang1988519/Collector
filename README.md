@@ -18,8 +18,8 @@
   ``` shell
     pod search KRVideoPlayer
   ```
-
     使用MPMoviePlayer进行视频播放，自定义控制层 来控制视频的暂定，播放，前进后退等等
+    ![示例图片](https://github.com/36Kr-Mobile/KRVideoPlayer/blob/master/kr_player.gif "示例图片")
 - 模糊效果
 - AutoLayout
 
