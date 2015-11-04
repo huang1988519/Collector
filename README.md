@@ -1,6 +1,6 @@
 # iOS项目收集器
 收集iOS开源项目
- 
+
 ** 其他项目总结 **
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0) github iOS排行榜
 - [open-source-library-tags](https://github.com/superleexpert/open-source-library-tags) 佳宾同学自己项目总结
@@ -52,7 +52,11 @@
     ``` CocoaPods
     pod 'MessageDisplayKi
     ```
-    
+
     ![示例图片](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/MessageDisplayKit.gif "图片")
+    
+## 总有点别的爱好
+- 宅男
+  * [jav-scrapy](https://github.com/raawaa/jav-scrapy) 批量抓取AV磁链或封面的苦劳力,本人已亲测，抓去的文件逐行存放影视资源，提醒大家抓取时设置上限，身体第一。细水长流。
 
 ## 博客
