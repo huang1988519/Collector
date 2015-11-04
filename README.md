@@ -48,7 +48,10 @@
     * Model-View-ViewModel
   * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)
     一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能
-
+    支持 pod
+    ``` CocoaPods
+    pod 'MessageDisplayKi
+    ```
     ![示例图片](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/MessageDisplayKit.gif "图片")
 
 ## 博客
