@@ -52,6 +52,7 @@
     ``` CocoaPods
     pod 'MessageDisplayKi
     ```
+    
     ![示例图片](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/MessageDisplayKit.gif "图片")
 
 ## 博客
